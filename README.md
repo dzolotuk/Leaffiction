@@ -79,6 +79,7 @@ Grape/
 ├── Grape_Esca/
 └── Grape_spot/
 ```
+You can use similar dataset from here: https://www.kaggle.com/datasets/mhantor/apple-leaf-diseases
 
 If the archive extracts into a flat `images/<Plant_Disease>/` folder, regroup it by plant type:
 
