@@ -1,4 +1,4 @@
-# Leaffiction 🍃
+# Leaffiction 
 
 Computer-vision pipeline for **leaf disease classification**, built as part of the 42 Paris curriculum.
 
